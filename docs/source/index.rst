@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to the ATLAS Satellite Operator User Guide!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This document walks you through integrating to the Freedom Software Platform...
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`Getting Started` section for further information.
 
 .. note::
 
@@ -18,5 +14,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Getting Started
+   Phases of Integration
+   Freedom Copilot
+   Partner Communications
+   API Concepts
+   API Selection
