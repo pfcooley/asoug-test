@@ -3,7 +3,7 @@ Welcome to the ATLAS Satellite Operator User Guide!
 
 This document walks you through integrating to the Freedom Software Platform...
 
-Check out the :doc:`Getting Started` section for further information.
+Check out the :doc:`Phases of Integration` section for further information.
 
 .. note::
 
