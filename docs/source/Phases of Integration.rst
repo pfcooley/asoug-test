@@ -6,6 +6,9 @@ Phases of Integration
 Phase 1 - Data Collection
 -------------------------
 
+This phase begins the moment a customer signs a contract. ATLAS requests the following items to ease transition through later technical phases:
+
+
 .. _Phase 2 - API Integration:
 
 Phase 2 - Data Collection
