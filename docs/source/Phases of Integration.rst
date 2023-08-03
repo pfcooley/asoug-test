@@ -9,7 +9,7 @@ Phase 1 - Data Collection
 This phase begins the moment a customer signs a contract. ATLAS requests the following items to ease transition through later technical phases:
 
 .. list-table::
-    widths: 10 75 10 10
+    widths: 10 35 10 10
     :header-rows: 1
 
     * - Step
