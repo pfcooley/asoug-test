@@ -17,7 +17,7 @@ This phase begins the moment a customer signs a contract. ATLAS requests the fol
       - Reading
       - Owner
     * - 1.1
-      - Define the Modes of Operation and technical requirements. The MOO represents the customer's desired ConOps based on the capabilities of the spacecraft. It primarily answers the questions:
+      - | Define the Modes of Operation and technical requirements. The MOO represents the customer's desired ConOps | based on the capabilities of the spacecraft. It primarily answers the questions:
         For each mode of Operation...
       - :doc:`Partner Communications`
       - ATLAS
