@@ -38,6 +38,12 @@ This phase begins the moment a customer signs a contract. ATLAS requests the fol
         | format available (Either supplied by the Customer or available to ATLAS)
       - 
       - Customer
+    * - 1.3
+      - | For each Mode of Operation, ATLAS needs representative **Uplink** Data File(s)
+
+        | This file will be used to validate commands going through the FPS and into the modem at the site.
+      - 
+      - Customer
 
 
 .. _Phase 2 - API Integration:
