@@ -21,8 +21,8 @@ This phase begins the moment a customer signs a contract. ATLAS requests the fol
         | desired ConOps based on the capabilities of the spacecraft. It primarily answers the questions:
        
         | For each mode of Operation...
-        | * What frequency band(s) are used?
-        | * What link type(s) are used (Transmit, Receive, or Both)?
+        * What frequency band(s) are used?
+        * What link type(s) are used (Transmit, Receive, or Both)?
         * What are the signal characteristics? I.e. modulation(s), data rate(s), polarization(s)
       - :doc:`Partner Communications`
       - ATLAS
