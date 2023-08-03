@@ -23,8 +23,22 @@ This phase begins the moment a customer signs a contract. ATLAS requests the fol
         * What frequency band(s) are used?
         * What link type(s) are used (Transmit, Receive, or Both)?
         * What are the signal characteristics? I.e. modulation(s), data rate(s), polarization(s)
+        * How will the data be deliverd (real time and/or store & forward)
+        * What baseband equipment wil lbe used? Is header translation required?
+        * What property overrides must be applied?
+        * Is customer post processing required?
+        * What is the data delivery destination? (ATLAS S3 or push to customer server)
       - :doc:`Partner Communications`
       - ATLAS
+    * - 1.2
+      - | For each Mode of Operation, ATLAS needs representative **Downlink** Data File(s)
+
+        | This file will be used to validate telemetry output from the modem through the FPS. It can be 
+        | with any header format (Cortex, Amergint, RT Logic) as long as we have a description of the header
+        | format available (Either supplied by the Customer or available to ATLAS)
+      - 
+      - Customer
+
 
 .. _Phase 2 - API Integration:
 
