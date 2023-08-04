@@ -13,7 +13,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
 
    Phases of Integration
    Freedom Copilot
