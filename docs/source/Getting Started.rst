@@ -1,7 +1,5 @@
 Getting Started
 ===============
 
-Phases of Integration
+:doc:`Phases of Integration`
 ---------------------
-
-.. _Phases of Integration:
