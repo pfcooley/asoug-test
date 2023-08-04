@@ -13,12 +13,14 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 4
+   :numbered:
 
    Phases of Integration
-   Freedom Copilot
-   Partner Communications
-   API Concepts
-   API Selection
-   Test to Production
-   Glossary of Terms
-   Software Release Policy
+      Freedom Copilot
+      Partner Communications
+      API Concepts
+      API Selection
+      Test to Production
+      Glossary of Terms
+      Software Release Policy
