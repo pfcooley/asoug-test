@@ -45,11 +45,26 @@ This phase begins the moment a customer signs a contract. ATLAS requests the fol
       - 
       - Customer
 
-
 .. _Phase 2 - API Integration:
 
-Phase 2 - Data Collection
+Phase 2 - API Integration
 -------------------------
+
+The API Integration Phase is to accomplish early integration and familiarity with the ATLAS Freedom API. We expect that at the end of this phase the customer understands the API and can execute the following objectives:
+
+.. list-table::
+   widths: 10 35 10 10
+   :header-rows: 1
+
+   * - Step
+     - Description
+     - Reading
+     - Owner
+   * - 2.1
+     - Create, Retrieve, and Delete **Satellite Bands**
+     - :ref: <Adding Satellites>:
+     - Customer
+
 
 .. _Phase 3 - Testing / Hardware Configuration:
 
