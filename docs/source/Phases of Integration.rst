@@ -50,7 +50,7 @@ This phase begins the moment a customer signs a contract. ATLAS requests the fol
 Phase 2 - API Integration
 -------------------------
 
-The API Integration Phase is to accomplish early integration :ref:`Adding Satellites` and familiarity with the ATLAS Freedom API. We expect that at the end of this phase the customer understands the API and can execute the following objectives:
+The API Integration Phase is to accomplish early integration and ensure familiarity with the ATLAS Freedom API. We expect that at the end of this phase the customer understands the API and can execute the following objectives:
 
 .. list-table::
    :widths: 10 35 10 10
@@ -64,6 +64,34 @@ The API Integration Phase is to accomplish early integration :ref:`Adding Satell
      - Create, Retrieve, and Delete **Satellite Bands**
      - :ref:`Adding Satellites`
      - Customer
+   * - 2.2
+     - Create, Retrieve, and Delete **Satellite Configurations**
+     - 
+     - Customer
+   * - 2.3
+     - Create, Retrieve, and Delete **Satellites**
+     -
+     - Customer
+   * - 2.4
+     - | Create, Retrieve, and Delete Task Requests
+       | Only for TEST Type Task Requests (Phase 2 will include other types)
+     - 
+     - Customer
+   * - 2.5
+     - Connect and receive real time Status Changes
+     - 
+     - Customer
+   * - 2.6
+     - Retrieve data files (S3 direct or API)
+     - Retrieving Backhaul Data
+     - Customer
+   * - 2.7
+     - | Freedom Pass Server (FPS) (if applicable)
+       | 1. Connect using tokens
+       | 2. Playback Files through the FPS using TEST type Task Requests
+     - Freedom Pass Server
+     - Customer
+
 
 
 .. _Phase 3 - Testing / Hardware Configuration:
