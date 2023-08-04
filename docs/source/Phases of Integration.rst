@@ -1,5 +1,5 @@
 Phases of Integration
-=====================
+---------------------
 
 .. _Phase 1 - Data Collection:
 
