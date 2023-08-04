@@ -9,7 +9,7 @@ Phase 1 - Data Collection
 This phase begins the moment a customer signs a contract. ATLAS requests the following items to ease transition through later technical phases:
 
 .. list-table::
-    widths: 10 35 10 10
+    :widths: 10 35 10 10
     :header-rows: 1
 
     * - Step
@@ -53,7 +53,7 @@ Phase 2 - API Integration
 The API Integration Phase is to accomplish early integration and familiarity with the ATLAS Freedom API. We expect that at the end of this phase the customer understands the API and can execute the following objectives:
 
 .. list-table::
-   widths: 10 35 10 10
+   :widths: 10 35 10 10
    :header-rows: 1
 
    * - Step
