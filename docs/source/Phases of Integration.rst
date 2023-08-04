@@ -50,7 +50,7 @@ This phase begins the moment a customer signs a contract. ATLAS requests the fol
 Phase 2 - API Integration
 -------------------------
 
-The API Integration Phase is to accomplish early integration :ref: 'Adding Satellites' and familiarity with the ATLAS Freedom API. We expect that at the end of this phase the customer understands the API and can execute the following objectives:
+The API Integration Phase is to accomplish early integration :ref:`Adding Satellites` and familiarity with the ATLAS Freedom API. We expect that at the end of this phase the customer understands the API and can execute the following objectives:
 
 .. list-table::
    :widths: 10 35 10 10
@@ -62,7 +62,7 @@ The API Integration Phase is to accomplish early integration :ref: 'Adding Satel
      - Owner
    * - 2.1
      - Create, Retrieve, and Delete **Satellite Bands**
-     - :doc:`Adding Satellites`
+     - :ref:`Adding Satellites`
      - Customer
 
 
