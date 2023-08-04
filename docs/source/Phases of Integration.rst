@@ -92,8 +92,6 @@ The API Integration Phase is to accomplish early integration and ensure familiar
      - Freedom Pass Server
      - Customer
 
-
-
 .. _Phase 3 - Testing / Hardware Configuration:
 
 Phase 3 - Testing / Hardware Configuration
