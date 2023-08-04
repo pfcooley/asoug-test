@@ -62,7 +62,7 @@ The API Integration Phase is to accomplish early integration and familiarity wit
      - Owner
    * - 2.1
      - Create, Retrieve, and Delete **Satellite Bands**
-     - :ref:'<Adding Satellites>':
+     - :ref:'Adding Satellites':
      - Customer
 
 
