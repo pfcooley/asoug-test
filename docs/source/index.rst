@@ -16,7 +16,7 @@ Contents
    :maxdepth: 4
    :numbered:
 
-   Getting Started
+   Phases of Integration
    Freedom Copilot
    Partner Communications
    API Concepts
