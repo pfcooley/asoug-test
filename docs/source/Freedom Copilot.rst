@@ -1,6 +1,8 @@
 Freedom Copilot
 ===============
 
+Freedom
+-------
 In the Freedom UI, you will find a tab called "Copilot" that contains Copilot, our onboarding tool. This page provides information regarding the real-time status of your 
 integration with the Freedom Platform. For each step of integration (listed in the suggested order in which tasks should be completed from top to bottom), there is a short
 explanation on what each task involves and how best to complete it. Some tasks involve actively reaching out via Discourse to an ATLAS employee, i.e. requesting a User
